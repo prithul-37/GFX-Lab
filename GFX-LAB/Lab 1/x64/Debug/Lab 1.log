@@ -1,11 +1,10 @@
-﻿  glad.c
-  lab 1.cpp
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(254,28): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(258,28): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(262,28): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(266,28): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(270,24): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(274,24): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(278,24): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\lab 1.cpp(282,24): warning C4305: '-=': truncation from 'double' to 'float'
-  Lab 1.vcxproj -> C:\Users\prith\OneDrive\Desktop\Study\GFX-LAB\Lab 1\x64\Debug\Lab 1.exe
+﻿  lab 1.cpp
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(259,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(263,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(267,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(271,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(275,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(279,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(283,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\lab 1.cpp(287,24): warning C4305: '-=': truncation from 'double' to 'float'
+  Lab 1.vcxproj -> C:\Users\prith\OneDrive\Desktop\Study\GFX-Lab\GFX-LAB\Lab 1\x64\Debug\Lab 1.exe

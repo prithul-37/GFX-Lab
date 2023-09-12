@@ -144,9 +144,9 @@ int main()
 
     //triangle
     float vertices[] = {
-        -0.5f, -0.5f, 0.0f, // left
-         0.5f, -0.5f, 0.0f, // right
-         0.0f,  0.5f, 0.0f  // top
+        -0.5f, 0.0f, 0.0f, // left
+         0.5f, 0.0f, 0.0f, // right
+         0.0f,  0.75f, 0.0f  // top
     };
 
     unsigned int VBO, VAO;
@@ -199,26 +199,31 @@ int main()
         rotationMatrix = glm::rotate(identityMatrix, glm::radians(rotateAngle), glm::vec3(0.0f, 0.0f, 1.0f));
         scaleMatrix = glm::scale(identityMatrix, glm::vec3(scale_X, scale_Y, 1.0f));
         modelMatrix = translationMatrix * rotationMatrix * scaleMatrix;
-        //modelMatrix = rotationMatrix * scaleMatrix;
+        
 
-        // get matrix's uniform location and set matrix
         glUseProgram(shaderProgram);
         unsigned int transformLoc = glGetUniformLocation(shaderProgram, "transform");
         glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(modelMatrix));
 
-        // draw our first triangle
-        glBindVertexArray(VAO); // seeing as we only have a single VAO there's no need to bind it every time, but we'll do so to keep things a bit more organized
-        //glDrawArrays(GL_LINES, 0, 6);
-        //glDrawArrays(GL_LINE_STRIP, 0, 6);
-        //glDrawArrays(GL_LINE_LOOP, 0, 6);
-        //glDrawArrays(GL_TRIANGLES, 0, 6);
-        //glDrawArrays(GL_TRIANGLE_STRIP, 0, 6);
-        //glDrawArrays(GL_TRIANGLE_FAN, 0, 6);
+        
+        glBindVertexArray(VAO);
         glDrawArrays(GL_TRIANGLES, 0, 3);
-        // glBindVertexArray(0); // no need to unbind it every time
+        
+        //translationMatrix = glm::translate(identityMatrix, glm::vec3(translate_X, translate_Y, 0.0f));
+        rotationMatrix = glm::rotate(identityMatrix, glm::radians(180.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+        scaleMatrix = glm::scale(identityMatrix, glm::vec3(scale_X, scale_Y, 1.0f));
+        modelMatrix = translationMatrix * rotationMatrix * scaleMatrix;
+        glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(modelMatrix));
+        glDrawArrays(GL_TRIANGLES, 0, 3);
 
-        // glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
-        // -------------------------------------------------------------------------------
+        translationMatrix = glm::translate(identityMatrix, glm::vec3(translate_X, -.75f, 0.0f));
+        rotationMatrix = glm::rotate(identityMatrix, glm::radians(rotateAngle), glm::vec3(0.0f, 0.0f, 1.0f));
+        scaleMatrix = glm::scale(identityMatrix, glm::vec3(.5f, .5f, 1.0f));
+        modelMatrix = translationMatrix * rotationMatrix * scaleMatrix;
+        glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(modelMatrix));
+        glDrawArrays(GL_TRIANGLES, 0, 3);
+
+
         glfwSwapBuffers(window);
         glfwPollEvents();
     }
