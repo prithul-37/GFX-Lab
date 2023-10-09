@@ -1,0 +1,49 @@
+﻿  main.cpp
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(394,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(397,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(398,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(399,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(400,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(401,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(411,60): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(411,53): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(411,46): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(422,60): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(422,53): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(422,46): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(433,49): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(444,49): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(455,60): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(455,53): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(455,46): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(466,60): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(466,53): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(466,46): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(492,47): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(493,52): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(494,34): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(496,75): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(497,75): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(498,75): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(499,75): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(500,75): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(501,75): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(502,71): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(503,71): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(504,71): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(505,71): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(506,71): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(507,71): warning C4305: '-=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(511,29): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(518,29): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(525,29): warning C4305: '+=': truncation from 'double' to 'float'
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(533,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(538,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(543,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(548,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(553,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\main.cpp(558,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\x64\Debug\Lighting.exe

@@ -1,0 +1,4 @@
+E:\KUET_Teaching\CSE 4208 Computer Graphics Laboratory 2K18\Lab 3\Lighting\x64\Debug\Lighting.exe
+E:\KUET_Teaching\CSE 4208 Computer Graphics Laboratory 2K18\Lab 3\Lighting Student Version\x64\Debug\Lighting.exe
+C:\Users\softl\OneDrive\Desktop\Today\Lab 3\Lighting Student Version\x64\Debug\Lighting.exe
+G:\TANVIR\welcome 2k18\4.2\CSE 4207 Computer Graphics\Lab New\A1\Lab 3\Lighting Student Version\x64\Debug\Lighting.exe
